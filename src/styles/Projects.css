@@ -137,8 +137,8 @@
 }
 
 .tech-tag {
-  background-color: rgba(74, 107, 175, 0.1);
-  color: var(--primary-color);
+  background-color: #e9ecf6;
+  color: var(--primary-dark);
   padding: 5px 12px;
   border-radius: 20px;
   font-size: 0.9rem;
@@ -146,7 +146,7 @@
 }
 
 .tech-tag:hover {
-  background-color: rgba(230, 121, 59, 0.15);
+  background-color: #f9e9e0;
   color: var(--secondary-color);
 }
 

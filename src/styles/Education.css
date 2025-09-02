@@ -134,7 +134,7 @@
 }
 
 .skill-tag {
-  background-color: rgba(74, 107, 175, 0.15);
+  background-color: #e9ecf6;
   color: var(--primary-dark);
   padding: 6px 12px;
   border-radius: 20px;
@@ -144,7 +144,7 @@
 }
 
 .skill-tag:hover {
-  background-color: rgba(230, 121, 59, 0.15);
+  background-color: #f9e9e0;
   color: var(--secondary-color);
   transform: translateY(-2px);
 }
