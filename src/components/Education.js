@@ -49,15 +49,13 @@ const Education = () => {
           >
             <div className="education-header">
               <div className="header-content">
+                <p className="date">
+                  {edu.startDate} - {edu.endDate}
+                </p>
                 <h2>{edu.institution}</h2>
                 <h3>
                   {edu.degree} in {edu.field}
                 </h3>
-              </div>
-              <div className="header-right">
-                <p className="date">
-                  {edu.startDate} - {edu.endDate}
-                </p>
               </div>
             </div>
             

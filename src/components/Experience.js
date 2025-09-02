@@ -79,14 +79,12 @@ const Experience = () => {
           >
             <div className="experience-header">
               <div className="header-content">
-                <h2>{exp.position}</h2>
-                <h3>{exp.company}</h3>
-                <p className="location">{exp.location}</p>
-              </div>
-              <div className="header-right">
                 <p className="date">
                   {exp.startDate} - {exp.endDate}
                 </p>
+                <h2>{exp.position}</h2>
+                <h3>{exp.company}</h3>
+                <p className="location">{exp.location}</p>
               </div>
             </div>
 
