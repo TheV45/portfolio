@@ -2,8 +2,6 @@ import React, { useState } from "react";
 import {
   FaGithub,
   FaExternalLinkAlt,
-  FaChevronDown,
-  FaChevronUp,
 } from "react-icons/fa";
 import "../styles/Projects.css";
 

@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import { FaChevronDown, FaChevronUp } from "react-icons/fa";
 import "../styles/Experience.css";
 
 const Experience = () => {
