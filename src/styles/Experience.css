@@ -151,7 +151,7 @@
 }
 
 .skill-tag {
-  background-color: #e9ecf6;
+  background-color: #d0d8ee;
   color: var(--primary-dark);
   padding: 6px 12px;
   border-radius: 20px;
@@ -161,7 +161,7 @@
 }
 
 .skill-tag:hover {
-  background-color: #f9e9e0;
+  background-color: #f7d7c1;
   color: var(--secondary-color);
   transform: translateY(-2px);
 }
