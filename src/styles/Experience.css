@@ -161,7 +161,7 @@
 }
 
 .skill-tag:hover {
-  background-color: rgba(85, 194, 195, 0.2);
+  background-color: rgba(230, 121, 59, 0.15);
   color: var(--secondary-color);
   transform: translateY(-2px);
 }
